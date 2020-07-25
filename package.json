@@ -1,0 +1,28 @@
+{
+  "name": "preview-mode-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@reach/alert-dialog": "^0.8.6",
+    "@reach/dialog": "^0.8.5",
+    "aws-sdk": "^2.632.0",
+    "copy-to-clipboard": "^3.3.1",
+    "next": "^9.3.4",
+    "react": "16.13.0",
+    "react-dom": "16.13.0",
+    "shortid": "^2.2.15",
+    "slate": "^0.57.1",
+    "slate-history": "^0.57.1",
+    "slate-react": "^0.57.1"
+  },
+  "devDependencies": {
+    "@types/node": "^13.7.7",
+    "@types/react": "^16.9.23",
+    "typescript": "^3.8.3"
+  }
+}
